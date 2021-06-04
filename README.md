@@ -12,3 +12,5 @@ Este app busca em tempo real através de requisisões fetch à API `https://api.
 O usuário pode escolher um país e selecionar o período que deseja visualizar, que o gráfico será montado na página.
 
 ### Como ficou
+
+![Home Page](./public/page-app-coronavirus.png)
