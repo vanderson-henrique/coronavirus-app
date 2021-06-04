@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+.container-graphic {
+  margin-left: 200px;
+}
+
+.container-filters {
+  display: flex;
+  flex-direction: row;
+  font-weight: 800;
+  justify-content: space-around;
+  align-items: center;
+  padding: 5px;
+  margin: 10px;
+  margin-bottom: 30px;
+  border: 1px solid rgb(190, 184, 184);
+}
+
+.container-filters input {
+  margin: 5px;
+}
+
+.form-countries {
+  margin: 20px;
+  width: 300px;
+}
